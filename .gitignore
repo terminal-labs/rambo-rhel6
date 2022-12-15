@@ -1,0 +1,4 @@
+.rambo-tmp/
+.vagrant/
+my_rambo.conf
+auth/
